@@ -7,6 +7,7 @@ kernels, stacking kernel cubes, and convolving IFU science cubes.
 Notes
 -----
 - Much of this code was written by Tom Williams and Ryan Chown, specifically the kernel creation, convolution, and regridding codes
+(https://github.com/rchwn/jwst_kernels)
 - Their code was adapted to include IFU PSF generation and to convolve IFU cubes by Hannah Koziol
 - The Aniano kernel class and its image-processing helpers are included below.
 - STPSF instrument configuration can depend on the observing mode and installed
